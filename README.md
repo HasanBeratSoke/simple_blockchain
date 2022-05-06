@@ -225,16 +225,16 @@ def get_chain():
 ### Sonuç
 port
 
-img
+![port](https://github.com/HasanBeratSoke/simple_blockchain/blob/main/port.png)
 
 mine_block
 
-img
+![mine](https://github.com/HasanBeratSoke/simple_blockchain/blob/main/mine_block.png)
 
 get_chain
 
-img
+![get](https://github.com/HasanBeratSoke/simple_blockchain/blob/main/get_chain.png)
 
 validation
 
-img
+![valid](https://github.com/HasanBeratSoke/simple_blockchain/blob/main/valıd.png)
